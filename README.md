@@ -1,6 +1,8 @@
 <!-- pip install -r requirements.txt
 uvicorn main:app --reload -->
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Sejeong's_Git_Hub&fontSize=90)
+>
 ## 😄 Sejeong 's Git Hub
 
 - 🏫 YNU. materials science and engineering & SSAFY 10th.
@@ -39,7 +41,7 @@ uvicorn main:app --reload -->
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyeop1322)](https://github.com/junyeop1322/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=5FCC29&height=200&section=footer) -->
+
 <!--
 **junyeop1322/junyeop1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
